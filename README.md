@@ -15,4 +15,10 @@ with zero knowledge.
 
 Test api deployed to: https://zero-proof.herokuapp.com/
 
+Sample queries:
 
+1) Accreditation
+![Screenshot](Screenshot/Аккредитация.jpg)
+
+2) Registration
+![Screenshot](Screenshot/Регистрация.jpg)
